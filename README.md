@@ -1,1 +1,1 @@
-# CT240_Project_WebChat By VoMinhSang
+# CT240_Project_WebChat
