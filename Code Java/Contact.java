@@ -1,6 +1,6 @@
 /***********************************************************************
  * Module:  Contact.java
- * Author:  Lenovo Slim 3
+ * Author:  Vo Minh Sang
  * Purpose: Defines the Class Contact
  ***********************************************************************/
 
